@@ -6,7 +6,7 @@ Durante el curso, se enseña las maneras de crear y leer archivos, diferentes me
 
 De manera complementaria, se trabajó con la **API de Kaggle** para extraer datasets con Python.
 
-El set de datos principal que se utiliza es el de [Reviews Wines](https://www.kaggle.com/datasets/zynicide/wine-reviews).
+El set de datos principal que se utiliza es el de [Wines Reviews](https://www.kaggle.com/datasets/zynicide/wine-reviews).
 
 ## Lecciones
 
